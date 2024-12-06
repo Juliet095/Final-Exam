@@ -15,9 +15,9 @@
 # no. 12  A
 # no. 13  C
 # no. 14  A
-# no. 15  
+# no. 15  D
 # no. 16  A
 # no. 17  A
 # no. 18  A
 # no. 19  C
-# no. 20  
+# no. 20  C
