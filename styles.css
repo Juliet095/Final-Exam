@@ -1,0 +1,42 @@
+.container{
+    max-width: 1200px;
+    margin: auto;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 25px, 25px;
+    background-color: blue;
+}
+nav{
+    padding: 25px 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    border: 10px;
+    background-color: blue;
+}
+header{
+    padding: 25px 25px;
+    background-color: blue;
+}
+.nav_logo{
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: green;
+}
+.nav_links{
+    list-style: none;
+    display: flex;
+    align-items: right;
+    gap: 2rem;
+}
+.link a{
+    text-decoration: none;
+    color: blue;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.link a:hover{
+    color: green;
+}
